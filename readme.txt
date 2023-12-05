@@ -1,0 +1,1 @@
+This code adds a safe logout ur to your menu. Copy the code to your functions.php, then go to appearence > menu, on your menu pages you will see an option on the right to add a logout item, add it and in the url add #ibarra_logout#, if you want to change the prefix you need to change it on the function first. 
